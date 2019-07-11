@@ -1,0 +1,1 @@
+# python-odevler-5.hafta
